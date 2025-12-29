@@ -1,14 +1,7 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ammar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20→%20AI%20Automation%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-</p>
+# Hi there, I'm Ammar! 👋
 
-<!-- Animated Typing SVG -->
-<p align="center">
-  <a href="https://github.com/ammarhere02">
-    <img src="https://readme-typing-svg. demolab.com? font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Intelligent+Automation+Systems;Transforming+Ideas+into+AI-Powered+Solutions;From+Frontend+Pixels+to+Neural+Networks" alt="Typing SVG" />
-  </a>
-</p>
+Welcome to my GitHub profile! 
+
 
 <!-- Animated Snake Grid -->
 <p align="center">
