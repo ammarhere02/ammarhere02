@@ -5,7 +5,7 @@
 I design and build **scalable web systems and AI-driven automation solutions** that reduce manual effort, improve decision-making, and deliver measurable business value.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ammarhere02/ammarhere02/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
