@@ -5,7 +5,7 @@
 I design and build **scalable web systems and AI-driven automation solutions** that reduce manual effort, improve decision-making, and deliver measurable business value.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/ammarhere02/ammarhere02/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -126,34 +126,16 @@ Currently focused on building autonomous AI systems that combine LLMs, automatio
 ## GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ammarhere02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ammarhere02&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarhere02&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhere02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ammarhere02&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## Current Focus
-
-```python
-class CurrentFocus:
-    building = [
-        "AI automation agents",
-        "LLM-powered workflow systems",
-        "Custom RAG pipelines",
-        "Intelligent assistants"
-    ]
-
-    learning = [
-        "Advanced prompt engineering",
-        "Multi-agent architectures",
-        "Vector databases",
-        "MLOps & deployment"
-    ]
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhere02&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
