@@ -148,11 +148,7 @@ Currently focused on building autonomous AI systems that combine LLMs, automatio
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ammarhere02">
-    <img height="180em" src="https://streak-stats.demolab.com?user=ammarhere02&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ammarhere02">
