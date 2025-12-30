@@ -10,76 +10,93 @@ I design and build **scalable web systems and AI-driven automation solutions** t
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-```yaml
-name: Ammar
-role: AI Automation Engineer
-experience:
-  - Web Development
-  - Full-Stack Engineering
-  - AI / Machine Learning
-  - Automation Systems
-
-current_focus:
-  - AI agents & workflow automation
-  - LLM-powered systems (RAG, assistants)
-  - Backend architecture & APIs
-  - Scalable, production-ready AI solutions
-
-philosophy: >
-  Automate repetitive work so humans can focus on
-  creativity, strategy, and high-impact decisions.
-```
+<table>
+  <tr>
+    <td><b>👤 Name</b></td>
+    <td>Ammar</td>
+  </tr>
+  <tr>
+    <td><b>💼 Role</b></td>
+    <td>AI Automation Engineer</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Experience</b></td>
+    <td>Web Development • Full-Stack Engineering • AI/ML • Automation Systems</td>
+  </tr>
+  <tr>
+    <td><b>🔭 Current Focus</b></td>
+    <td>AI Agents • LLM-powered Systems • Backend Architecture • Production AI Solutions</td>
+  </tr>
+  <tr>
+    <td><b>💡 Philosophy</b></td>
+    <td><i>Automate repetitive work so humans can focus on creativity, strategy, and high-impact decisions.</i></td>
+  </tr>
+</table>
 
 ---
 
-## Professional Journey
+## 🚀 Professional Journey
 
-### Web Development
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br>
 
 Built responsive, high-performance interfaces with a strong emphasis on usability and maintainability.
 
-**Focus Areas**
-- Responsive & mobile-first design
-- Performance optimization
-- Debugging & browser tooling
+| Focus Area | Description |
+|------------|-------------|
+| 📱 Responsive Design | Mobile-first, adaptive layouts |
+| ⚡ Performance | Optimized load times & rendering |
+| 🔧 Tooling | Debugging & browser dev tools |
 
----
+</details>
 
-### Full-Stack Engineering
+<details>
+<summary><b>⚙️ Full-Stack Engineering</b></summary>
+<br>
 
 Developed complete application stacks, handling backend logic, databases, APIs, and deployments.
 
-**Focus Areas**
-- REST & GraphQL APIs
-- Authentication & security
-- Database schema design
-- Cloud deployment fundamentals
+| Focus Area | Description |
+|------------|-------------|
+| 🔗 APIs | REST & GraphQL development |
+| 🔐 Security | Authentication & authorization |
+| 🗄️ Databases | Schema design & optimization |
+| ☁️ Cloud | Deployment fundamentals |
 
----
+</details>
 
-### AI & Machine Learning
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
 
 Transitioned into building intelligent systems capable of learning from data and automating decision-making.
 
-**Focus Areas**
-- Machine learning pipelines
-- Natural language processing
-- Predictive analytics
-- Model evaluation & optimization
+| Focus Area | Description |
+|------------|-------------|
+| 📊 ML Pipelines | End-to-end model workflows |
+| 💬 NLP | Natural language processing |
+| 📈 Analytics | Predictive modeling |
+| ✅ Evaluation | Model optimization & tuning |
 
----
+</details>
 
-### AI Automation (Current)
+<details open>
+<summary><b>🎯 AI Automation (Current)</b></summary>
+<br>
 
 Currently focused on building autonomous AI systems that combine LLMs, automation tools, and scalable infrastructure.
 
-**Core Work**
-- AI agents & orchestration
-- Workflow automation (RPA)
-- LLM integration & prompt engineering
-- Production-grade AI systems
+| Core Work | Description |
+|-----------|-------------|
+| 🤖 AI Agents | Orchestration & multi-agent systems |
+| 🔄 RPA | Workflow automation |
+| 🧠 LLMs | Integration & prompt engineering |
+| 🏭 Production | Scalable, production-grade AI |
+
+</details>
 
 ---
 
